@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+transformers
+torch
+wordcloud
+lime
+scikit-learn
