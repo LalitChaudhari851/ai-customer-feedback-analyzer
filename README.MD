@@ -13,5 +13,6 @@ A SaaS-style AI Customer Feedback Analyzer built with:
 Use any username or:
 **demo / demo**
 
+Live Project : https://huggingface.co/spaces/LalitChaudhari3/ai-customer-feedback-analyzer
 ### Built by:
 **Lalit Chaudhari**
